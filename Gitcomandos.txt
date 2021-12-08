@@ -1,0 +1,21 @@
+Comandos Git:
+
+git init (inicializa o git em um repositorio)
+
+git status (mostra os status do repositorio)
+
+git clone "link do repositorio para clonar" (clona repositorio do GitHub)
+
+git add (adicionar arquivo novo)
+
+git add * (adiciona todos os arquivos novos)
+
+git commit -m "Mensagem" (comita repositorios)
+
+git push origin main/master (enviar repositorio para o GitHub)
+
+echo > "nome do arquivo"."extensão txt/md/html e etc.." (criar arquivo no dietorio)
+
+cd (entrar em uma pasta/repositorio)
+
+.cd (sair em uma pasta/repositorio)
