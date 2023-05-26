@@ -19,3 +19,5 @@ echo > "nome do arquivo"."extensão txt/md/html e etc.." (criar arquivo no dieto
 cd (entrar em uma pasta/repositorio)
 
 .cd (sair em uma pasta/repositorio)
+
+git remote add origin LINK (adiciona um repositorio remoto)
