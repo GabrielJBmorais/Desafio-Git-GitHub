@@ -21,3 +21,5 @@ cd (entrar em uma pasta/repositorio)
 .cd (sair em uma pasta/repositorio)
 
 git remote add origin LINK (adiciona um repositorio remoto)
+
+git remote set-url LINK NOVO ( Atualiza o link para o respositorio remoto) 
